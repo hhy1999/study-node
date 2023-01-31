@@ -1,0 +1,5 @@
+我对两个文件夹按照步骤操作：
+git add
+git commit -m "XXXX"
+git push origin master
+操作完成后，文件全部消失！！
